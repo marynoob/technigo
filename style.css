@@ -1,0 +1,11 @@
+
+/* Example styling of a h1 element */
+
+body {background-color: rgba(245, 245, 245);
+	  font-family: 'Mukta Malar', sans-serif;
+}
+
+.card {
+  background-color: rgba(245, 245, 245, 0.9);
+  margin-top: 50px;
+}
